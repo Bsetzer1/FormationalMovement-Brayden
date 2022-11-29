@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.1650852, g: 0.1937218, b: 0.22060284, a: 1}
+  m_IndirectSpecularColor: {r: 0.42697173, g: 0.4599896, b: 0.48743212, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -725,6 +725,18 @@ NavMeshAgent:
   m_BaseOffset: 0.5
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &1438703623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1438703609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec296cc42165bb41bc0717e294d782b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1713505663 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 544693212020255744, guid: 67c8d53518e71bf4ab7792c88634d5d5, type: 3}
